@@ -44,34 +44,27 @@ background-color: #4CAF50;
 .ultra-round {border-radius: 12px;}
 .full-round {border-radius: 50%;}
  
-
-.dump-green {
+.dump {
     background-color: white; 
     color: black; 
+}
+.dump.dump-green {
     border: 2px solid #4CAF50;
 }
 ​
-.dump-blue {
-    background-color: white; 
-    color: black; 
+.dump.dump-blue {
     border: 2px solid #008CBA;
 }
 ​
-.dump-red {
-    background-color: white; 
-    color: black; 
+.dump.dump-red {
     border: 2px solid #f44336;
 }
 ​
-.dump-gray {
-    background-color: white;
-    color: black;
+.dump.dump-gray {
     border: 2px solid #e7e7e7;
 }
 ​
-.dump-black {
-    background-color: white;
-    
+.dump.dump-black {
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -79,6 +72,5 @@ background-color: #4CAF50;
     font-size: 16px;
     margin: 4px 2px;
     cursor: pointer;
-    color: black;
     border: 2px solid #555555;
 }
