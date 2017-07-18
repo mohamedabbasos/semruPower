@@ -1,0 +1,34 @@
+.sbtn{
+border: none;
+    color: white;
+    padding: 1% 1.5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.sbtn-green{
+background-color: #4CAF50;
+}
+
+.sbtn-blue{
+ background-color: #008CBA;
+} /* Blue */
+.sbtn-red {background-color: #f44336;} /* Red */ 
+.sbtn-gray {background-color: #e7e7e7; color: black;} /* Gray */ 
+.sbtn-black {background-color: #555555;} /* Black */
+
+
+.sbtn_10 {font-size: 10px;}
+.sbtn_12 {font-size: 12px;}
+.sbtn_16 {font-size: 16px;}
+.sbtn_20 {font-size: 20px;}
+.sbtn_24 {font-size: 24px;}
+
+
+.round {border-radius: 2px;}
+.max-round {border-radius: 4px;}
+.extra-round {border-radius: 8px;}
+.ultra-round {border-radius: 12px;}
+.full-round {border-radius: 50%;}
+ 
